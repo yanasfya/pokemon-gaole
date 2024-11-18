@@ -1,2 +1,2 @@
 # pokemon-gaole
-Java console program for Pokémon Ga-Olé game simulation.
+This project is a Java Console Application that recreates the Pokémon Ga-Olé arcade game using Object-Oriented Programming (OOP) principles. It models key gameplay elements such as battles, Pokéballs, Pokémon entities, and Ga-Olé Medals, all encapsulated within distinct classes. The project emphasizes modularity and scalability, ensuring that each component is maintainable and interacts seamlessly with others.
